@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8wKqCcw3cjLD123EXXG6Jl9w6zjZ3IB3FsKhld+wjsX74S+Z323F71WkV9/OCHXiI6EO1lqYb7dYBCIfmJ08pg==",
+  "dgSpecHash": "Dfs+lJeDD/5LD0WfN/8a6KQCpkoXHPaXXGlngNEM9uYtRHSm7znuJnvdmsdEx28gahInvnUgAb/d/C8KjyS+Kw==",
   "success": true,
-  "projectFilePath": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Implementation\\ProjectForum.Implementation.csproj",
+  "projectFilePath": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Implementation\\ProjectForum.Implementation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefan\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Stefan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

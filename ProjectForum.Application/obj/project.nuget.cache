@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/18S8KumuwLtCJNkCzF102MFhXhqcmPvicA+l891+fxfb4+X+N0WlpZdkLSVmLyXMVkv/u+TBo5ByUCgZjvkLQ==",
+  "dgSpecHash": "2rrDTvMVNtjE3IBvUVhLrmxCGBD1EcqK3jo6/jfIuJf9kP0oFJ4nLscftykJO7Cn12AHScAonnhnxVNPECIxUw==",
   "success": true,
-  "projectFilePath": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Application\\ProjectForum.Application.csproj",
+  "projectFilePath": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Application\\ProjectForum.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

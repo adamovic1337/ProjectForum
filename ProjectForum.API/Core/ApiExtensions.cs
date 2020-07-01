@@ -14,9 +14,11 @@ using ProjectForum.Api.Core;
 using ProjectForum.API.Core.JWT;
 using ProjectForum.Application;
 using ProjectForum.Application.Commands;
+using ProjectForum.Application.Email;
 using ProjectForum.Application.Queries;
 using ProjectForum.EfDataAccess;
 using ProjectForum.Implementation.Commands;
+using ProjectForum.Implementation.Email;
 using ProjectForum.Implementation.Logging;
 using ProjectForum.Implementation.Profiles;
 using ProjectForum.Implementation.Queries;
@@ -33,6 +35,7 @@ namespace ProjectForum.API.Core
             services.AddAutoMapper(typeof(RoleProfile).Assembly);
             services.AddTransient<IUseCaseLogger, DatabaseUseCaseLogger>();
             services.AddTransient<UseCaseExecutor>();
+            services.AddTransient<IEmailSender, SmtpEmailSender>();
             services.AddControllers();
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Implementation\\ProjectForum.Implementation.csproj": {}
+    "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Implementation\\ProjectForum.Implementation.csproj": {}
   },
   "projects": {
-    "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Application\\ProjectForum.Application.csproj": {
+    "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Application\\ProjectForum.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Application\\ProjectForum.Application.csproj",
+        "projectUniqueName": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Application\\ProjectForum.Application.csproj",
         "projectName": "ProjectForum.Application",
-        "projectPath": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Application\\ProjectForum.Application.csproj",
+        "projectPath": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Application\\ProjectForum.Application.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Application\\obj\\",
+        "outputPath": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Domain\\ProjectForum.Domain.csproj": {
-                "projectPath": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Domain\\ProjectForum.Domain.csproj"
+              "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Domain\\ProjectForum.Domain.csproj": {
+                "projectPath": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Domain\\ProjectForum.Domain.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.DataAccess\\ProjectForum.EfDataAccess.csproj": {
+    "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.DataAccess\\ProjectForum.EfDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.DataAccess\\ProjectForum.EfDataAccess.csproj",
+        "projectUniqueName": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.DataAccess\\ProjectForum.EfDataAccess.csproj",
         "projectName": "ProjectForum.EfDataAccess",
-        "projectPath": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.DataAccess\\ProjectForum.EfDataAccess.csproj",
+        "projectPath": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.DataAccess\\ProjectForum.EfDataAccess.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.DataAccess\\obj\\",
+        "outputPath": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Domain\\ProjectForum.Domain.csproj": {
-                "projectPath": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Domain\\ProjectForum.Domain.csproj"
+              "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Domain\\ProjectForum.Domain.csproj": {
+                "projectPath": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Domain\\ProjectForum.Domain.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Domain\\ProjectForum.Domain.csproj": {
+    "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Domain\\ProjectForum.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Domain\\ProjectForum.Domain.csproj",
+        "projectUniqueName": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Domain\\ProjectForum.Domain.csproj",
         "projectName": "ProjectForum.Domain",
-        "projectPath": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Domain\\ProjectForum.Domain.csproj",
+        "projectPath": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Domain\\ProjectForum.Domain.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Domain\\obj\\",
+        "outputPath": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -196,14 +196,14 @@
         }
       }
     },
-    "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Implementation\\ProjectForum.Implementation.csproj": {
+    "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Implementation\\ProjectForum.Implementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Implementation\\ProjectForum.Implementation.csproj",
+        "projectUniqueName": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Implementation\\ProjectForum.Implementation.csproj",
         "projectName": "ProjectForum.Implementation",
-        "projectPath": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Implementation\\ProjectForum.Implementation.csproj",
+        "projectPath": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Implementation\\ProjectForum.Implementation.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Implementation\\obj\\",
+        "outputPath": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Implementation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -219,11 +219,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Application\\ProjectForum.Application.csproj": {
-                "projectPath": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.Application\\ProjectForum.Application.csproj"
+              "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Application\\ProjectForum.Application.csproj": {
+                "projectPath": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.Application\\ProjectForum.Application.csproj"
               },
-              "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.DataAccess\\ProjectForum.EfDataAccess.csproj": {
-                "projectPath": "D:\\3.Projects\\2. Programming\\2.C#\\ProjectForum\\ProjectForum.DataAccess\\ProjectForum.EfDataAccess.csproj"
+              "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.DataAccess\\ProjectForum.EfDataAccess.csproj": {
+                "projectPath": "D:\\3.Projects\\2. Programming\\Backup\\ProjectForum\\ProjectForum.DataAccess\\ProjectForum.EfDataAccess.csproj"
               }
             }
           }
