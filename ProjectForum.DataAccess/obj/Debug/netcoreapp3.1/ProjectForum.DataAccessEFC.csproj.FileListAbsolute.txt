@@ -1,0 +1,15 @@
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\bin\Debug\netcoreapp3.1\ProjectForum.DataAccessEFC.deps.json
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\bin\Debug\netcoreapp3.1\ProjectForum.DataAccessEFC.runtimeconfig.json
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\bin\Debug\netcoreapp3.1\ProjectForum.DataAccessEFC.runtimeconfig.dev.json
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\bin\Debug\netcoreapp3.1\ProjectForum.DataAccessEFC.dll
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\bin\Debug\netcoreapp3.1\ProjectForum.DataAccessEFC.pdb
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\bin\Debug\netcoreapp3.1\ProjectForum.Domain.dll
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\bin\Debug\netcoreapp3.1\ProjectForum.Domain.pdb
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\obj\Debug\netcoreapp3.1\ProjectForum.DataAccessEFC.csprojAssemblyReference.cache
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\obj\Debug\netcoreapp3.1\ProjectForum.DataAccessEFC.AssemblyInfoInputs.cache
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\obj\Debug\netcoreapp3.1\ProjectForum.DataAccessEFC.AssemblyInfo.cs
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\obj\Debug\netcoreapp3.1\ProjectForum.DataAccessEFC.csproj.CoreCompileInputs.cache
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\obj\Debug\netcoreapp3.1\ProjectForum.DataAccessEFC.csproj.CopyComplete
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\obj\Debug\netcoreapp3.1\ProjectForum.DataAccessEFC.dll
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\obj\Debug\netcoreapp3.1\ProjectForum.DataAccessEFC.pdb
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\obj\Debug\netcoreapp3.1\ProjectForum.DataAccessEFC.genruntimeconfig.cache

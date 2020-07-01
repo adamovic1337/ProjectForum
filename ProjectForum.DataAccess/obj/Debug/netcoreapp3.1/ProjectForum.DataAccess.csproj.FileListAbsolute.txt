@@ -1,0 +1,4 @@
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\bin\Debug\netcoreapp3.1\ProjectForum.Domain.dll
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\obj\Debug\netcoreapp3.1\ProjectForum.DataAccess.csprojAssemblyReference.cache
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\obj\Debug\netcoreapp3.1\ProjectForum.DataAccess.AssemblyInfoInputs.cache
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.DataAccess\obj\Debug\netcoreapp3.1\ProjectForum.DataAccess.AssemblyInfo.cs

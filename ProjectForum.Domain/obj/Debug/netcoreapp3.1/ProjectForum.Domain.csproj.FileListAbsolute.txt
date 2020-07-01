@@ -1,0 +1,9 @@
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.Domain\bin\Debug\netcoreapp3.1\ProjectForum.Domain.deps.json
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.Domain\bin\Debug\netcoreapp3.1\ProjectForum.Domain.dll
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.Domain\bin\Debug\netcoreapp3.1\ProjectForum.Domain.pdb
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.Domain\obj\Debug\netcoreapp3.1\ProjectForum.Domain.csprojAssemblyReference.cache
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.Domain\obj\Debug\netcoreapp3.1\ProjectForum.Domain.AssemblyInfoInputs.cache
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.Domain\obj\Debug\netcoreapp3.1\ProjectForum.Domain.AssemblyInfo.cs
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.Domain\obj\Debug\netcoreapp3.1\ProjectForum.Domain.csproj.CoreCompileInputs.cache
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.Domain\obj\Debug\netcoreapp3.1\ProjectForum.Domain.dll
+D:\3.Projects\2. Programming\2.C#\ProjectForum\ProjectForum.Domain\obj\Debug\netcoreapp3.1\ProjectForum.Domain.pdb
