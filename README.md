@@ -2,6 +2,6 @@
 School Project in ASP .NET Core
 
 Project idea:
-..* Implementing Layered Architecture
-..* Abstracting code using CQRS 
-..* Clean Code
+1. Implementing Layered Architecture
+2. Abstracting code using CQRS 
+3. Clean Code
